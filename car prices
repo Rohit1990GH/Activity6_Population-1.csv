@@ -1,0 +1,29 @@
+	car_name	car_prices_in_rupee	kms_driven	fuel_type	transmission	ownership	manufacture	engine	Seats
+0	Jeep Compass 2.0 Longitude Option BSIV	10.03 Lakh	86,226 kms	Diesel	Manual	1st Owner	2017	1956 cc	5 Seats
+1	Renault Duster RXZ Turbo CVT	12.83 Lakh	13,248 kms	Petrol	Automatic	1st Owner	2021	1330 cc	5 Seats
+2	Toyota Camry 2.5 G	16.40 Lakh	60,343 kms	Petrol	Automatic	1st Owner	2016	2494 cc	5 Seats
+3	Honda Jazz VX CVT	7.77 Lakh	26,696 kms	Petrol	Automatic	1st Owner	2018	1199 cc	5 Seats
+4	Volkswagen Polo 1.2 MPI Highline	5.15 Lakh	69,414 kms	Petrol	Manual	1st Owner	2016	1199 cc	5 Seats
+5	Volkswagen Vento 1.2 TSI Highline AT	7.66 Lakh	49,719 kms	Petrol	Automatic	1st Owner	2017	1197 cc	5 Seats
+6	Volkswagen Vento 1.2 TSI Highline Plus AT	7.58 Lakh	43,688 kms	Petrol	Automatic	1st Owner	2017	1197 cc	5 Seats
+7	Honda WR-V VX Diesel	11.60 Lakh	14,470 kms	Diesel	Manual	1st Owner	2021	1498 cc	5 Seats
+8	Honda City i VTEC CVT SV	6.99 Lakh	21,429 kms	Petrol	Automatic	1st Owner	2015	1497 cc	5 Seats
+9	Renault Duster Petrol RXS CVT	7.53 Lakh	31,750 kms	Petrol	Automatic	1st Owner	2017	1498 cc	5 Seats
+10	Maruti Baleno 1.2 Alpha	6.43 Lakh	38,203 kms	Petrol	Manual	1st Owner	2017	1197 cc	5 Seats
+11	Honda City i VTEC CVT SV	5.43 Lakh	1,10,284 kms	Petrol	Automatic	1st Owner	2014	1497 cc	5 Seats
+12	Mahindra XUV300 W6	8.62 Lakh	10,381 kms	Petrol	Manual	1st Owner	2020	1197 cc	5 Seats
+13	Jeep Compass 1.4 Limited Plus BSIV	16.78 Lakh	32,378 kms	Petrol	Automatic	1st Owner	2019	1368 cc	5 Seats
+14	Honda City V MT	10.03 Lakh	38,906 kms	Petrol	Manual	1st Owner	2020	1498 cc	5 Seats
+15	Hyundai Grand i10 AT Asta	5.63 Lakh	59,313 kms	Petrol	Automatic	2nd Owner	2016	1197 cc	5 Seats
+16	Hyundai i20 1.4 Asta	6.67 Lakh	85,672 kms	Diesel	Manual	1st Owner	2017	1396 cc	5 Seats
+17	Maruti Ciaz 1.4 Delta	6.73 Lakh	34,971 kms	Petrol	Manual	2nd Owner	2017	1373 cc	5 Seats
+18	Nissan Micra XL Optional	3.21 Lakh	35,894 kms	Petrol	Manual	2nd Owner	2015	1198 cc	5 Seats
+19	Maruti Ciaz Alpha Automatic BSIV	8.50 Lakh	56,000 kms	Petrol	Automatic	1st Owner	2019	1462 cc	5 Seats
+20	Maruti Swift Dzire VXI	4.34 Lakh	56,568 kms	Petrol	Manual	1st Owner	2014	1197 cc	5 Seats
+21	Renault KWID RXT	3.11 Lakh	48,872 kms	Petrol	Manual	1st Owner	2017	799 cc	5 Seats
+22	Renault KWID RXL BSIV	3.70 Lakh	17,346 kms	Petrol	Manual	1st Owner	2019	799 cc	5 Seats
+23	Jeep Compass 2.0 Limited Plus BSIV	15.88 Lakh	15,414 kms	Diesel	Manual	1st Owner	2019	1956 cc	5 Seats
+24	Hyundai Grand i10 1.2 Kappa Magna BSIV	5.41 Lakh	21,239 kms	Petrol	Manual	1st Owner	2018	1197 cc	5 Seats
+25	Maruti Alto K10 LXI	2.23 Lakh	62,361 kms	Petrol	Manual	1st Owner	2014	998 cc	5 Seats
+26	Hyundai Verna 1.6 VTVT S Option	5.88 Lakh	79,329 kms	Petrol	Manual	2nd Owner	2015	1591 cc	5 Seats
+27	Hyundai Tucson GLS AT	22.78 Lakh	11,945 kms	Petrol	Automatic	1st Owner	2021	1999 cc	5 Seats
